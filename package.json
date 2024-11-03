@@ -1,0 +1,19 @@
+{
+  "name": "backendtutorialsatyam22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyam34434/chaiaurbackend.git"
+  },
+  "author": "satyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyam34434/chaiaurbackend/issues"
+  },
+  "homepage": "https://github.com/satyam34434/chaiaurbackend#readme"
+}
