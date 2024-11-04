@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/satyam34434/chaiaurbackend#readme",
   "devDependencies": {
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
   }
 }
